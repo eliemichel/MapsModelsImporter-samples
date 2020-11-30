@@ -13,7 +13,7 @@ Please be patient. If there's no error message it most probably is still loading
 Depending on the size of the sample file it may take a minute or two to load and Blender will get unresponsive during this time.  
 
 If it works with a sample file you most probably shouldn't open a new issue on GitHub but figure out how to use RenderDoc.
-Find instructions about using RenderDoc by searching [YouTube](https://www.youtube.com/results?search_query=RenderDoc+Google+maps)
+Find instructions about using RenderDoc by searching [YouTube](https://www.youtube.com/results?search_query=RenderDoc)
 
 - **Samples made with RenderDoc Version 1.11:**
   - [Granada, Alhambra](#granada-alhambra)
