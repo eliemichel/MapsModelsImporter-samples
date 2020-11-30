@@ -3,6 +3,11 @@ MapsModelsImporter samples
 
 This is a set of .rdc files that you can try to import to check your installation of [MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter).
 
+## Samples made with RenderDoc Version 1.10:
+
+## Samples made with RenderDoc Version 1.9:
+- [New York, Manhattan Bridge](#new-york-manhattan-bridge)
+
 [Pumpa.rdc](samples/Pumpa.rdc) -- *2020-11-28*
 
 ![Pumpa.rdc importer in Blender](samples/Pumpa.png)
@@ -38,3 +43,12 @@ This is a set of .rdc files that you can try to import to check your installatio
 ![Shizuoka.rdc importer in Blender](samples/Shizuoka.png)
 
  ***
+
+## New York, Manhattan Bridge
+File: [bridge (RD_1.9)](samples/bridge-RD_1.9.rdc)
+RenderDoc Version: 1.9
+capture date: *2020-11-15*
+![bridge-RD_1.9.rdc import in Blender](samples/bridge-RD_1.9.png)
+
+ ***
+
