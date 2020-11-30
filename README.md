@@ -4,9 +4,11 @@ MapsModelsImporter samples
 This is a set of .rdc files that you can try to import to check your installation of [MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter).
 
 ### [Samples made with RenderDoc Version 1.11:](#renderdoc-version-111)
+Works with MapsModelImporter Version: does not work for now (newest Version is 0.3.3)  
 - [Granada, Alhambra](#granada-alhambra)
 
 ### [Samples made with RenderDoc Version 1.10:](#renderdoc-version-110)
+Works with MapsModelImporter Version: 0.3.3  
 - [Pumpa.rdc](#samples/Pumpa.rdc)
 - [Funkhaus.rdc](#samples/Funkhaus.rdc)
 - [Tracey.rdc](#samples/Tracey.rdc)
@@ -16,6 +18,7 @@ This is a set of .rdc files that you can try to import to check your installatio
 - [New York, Manhattan Bridge 1.10](#new-york-manhattan-bridge-110)
 
 ### [Samples made with RenderDoc Version 1.9:](#renderdoc-version-19)
+Works with MapsModelImporter Version: <= 0.3.3  
 - [New York, Manhattan Bridge 1.9](#new-york-manhattan-bridge-19)
 
 ## RenderDoc Version 1.11
@@ -24,7 +27,6 @@ This is a set of .rdc files that you can try to import to check your installatio
 <!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
 File: [alhambra-RD_1.11.rdc](samples/alhambra-RD_1.11.rdc)  
 RenderDoc Version: 1.11  
-Works with MapsModelImporter Version: does not work for now (newest Version is 0.3.3)  
 Capture Source: Google Maps  
 File size: 45 MB  
 Capture date: *2020-11-30*  
@@ -39,7 +41,6 @@ Capture date: *2020-11-30*
 <!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
 File: [Pumpa.rdc](samples/Pumpa.rdc)  
 RenderDoc Version: 1.10  
-Works with MapsModelImporter Version: 0.3.3  
 Capture Source: ?  
 File size: 31 MB  
 Capture date: *2020-11-28*  
@@ -51,7 +52,6 @@ Capture date: *2020-11-28*
 <!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
 File: [Funkhaus.rdc](samples/Funkhaus.rdc)  
 RenderDoc Version: 1.10  
-Works with MapsModelImporter Version: 0.3.3  
 Capture Source: ?  
 File size: 31 MB  
 Capture date: *2020-11-28*  
@@ -62,8 +62,7 @@ Capture date: *2020-11-28*
 ### Tracey
 <!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
 File: [Tracey.rdc](samples/Tracey.rdc)  
-RenderDoc Version: 1.10  
-Works with MapsModelImporter Version: 0.3.3  
+RenderDoc Version: 1.10   
 Capture Source: ?  
 File size: 52 MB  
 Capture date: *2020-11-28*  
@@ -75,7 +74,6 @@ Capture date: *2020-11-28*
 <!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
 File: [HongKong.rdc](samples/HongKong.rdc)  
 RenderDoc Version: 1.10  
-Works with MapsModelImporter Version: 0.3.3  
 Capture Source: ?  
 File size: 72 MB  
 Capture date: *2020-11-28*  
@@ -87,7 +85,6 @@ Capture date: *2020-11-28*
 <!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
 File: [Mine.rdc](samples/Mine.rdc)  
 RenderDoc Version: 1.10  
-Works with MapsModelImporter Version: 0.3.3  
 Capture Source: ?  
 File size: 68 MB  
 Capture date: *2020-11-28*  
@@ -99,7 +96,6 @@ Capture date: *2020-11-28*
 <!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
 File: [Shizuoka.rdc](samples/Shizuoka.rdc)  
 RenderDoc Version: 1.10  
-Works with MapsModelImporter Version: 0.3.3  
 Capture Source: ?  
 File size: 68 MB  
 Capture date: *2020-11-28*  
@@ -111,7 +107,6 @@ Capture date: *2020-11-28*
 <!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
 File: [bridge-RD_1.10](samples/bridge-RD_1.10.rdc)  
 RenderDoc Version: 1.10  
-Works with MapsModelImporter Version: 0.3.3  
 Capture Source: Google Maps  
 File size: 26 MB  
 Capture date: *2020-11-13*  
@@ -125,7 +120,6 @@ Capture date: *2020-11-13*
 <!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
 File: [bridge-RD_1.9](samples/bridge-RD_1.9.rdc)  
 RenderDoc Version: 1.9  
-Works with MapsModelImporter Version: <= 0.3.3 
 Capture Source: Google Maps  
 File size: 30 MB  
 Capture date: *2020-11-15*  
