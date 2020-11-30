@@ -63,7 +63,7 @@ Capture date: *2020-11-28*
 File: [Funkhaus.rdc](samples/Funkhaus.rdc)  
 RenderDoc Version: 1.10  
 Capture Source: ?  
-File size: 31 MB  
+File size: 68 MB  
 Capture date: *2020-11-28*  
 ![Funkhaus.rdc importer in Blender](samples/Funkhaus.png)
 
@@ -96,7 +96,7 @@ Capture date: *2020-11-28*
 File: [Mine.rdc](samples/Mine.rdc)  
 RenderDoc Version: 1.10  
 Capture Source: ?  
-File size: 68 MB  
+File size: 67 MB  
 Capture date: *2020-11-28*  
 ![Mine.rdc importer in Blender](samples/Mine.png)
 
@@ -107,7 +107,7 @@ Capture date: *2020-11-28*
 File: [Shizuoka.rdc](samples/Shizuoka.rdc)  
 RenderDoc Version: 1.10  
 Capture Source: ?  
-File size: 68 MB  
+File size: 67 MB  
 Capture date: *2020-11-28*  
 ![Shizuoka.rdc importer in Blender](samples/Shizuoka.png)
 
@@ -118,7 +118,7 @@ Capture date: *2020-11-28*
 File: [bridge-RD_1.10](samples/bridge-RD_1.10.rdc)  
 RenderDoc Version: 1.10  
 Capture Source: Google Maps  
-File size: 26 MB  
+File size: 25 MB  
 Capture date: *2020-11-13*  
 ![bridge-RD_1.10.rdc import in Blender](samples/bridge-RD_1.10.png)
 
