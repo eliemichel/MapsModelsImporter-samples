@@ -5,11 +5,15 @@ This is a set of .rdc files that you can try to import to check your installatio
 
 Please make sure that You are using the recommended RenderDoc Version for the installed MapsModelsImporter Version:
 - RenderDoc Version 1.5 - 1.9 for MapsModelsImporter <= 0.3.2
-- RenderDoc Version = 1.10 for MapsModelsImporter = 0.3.3
+- RenderDoc Version 1.10 for MapsModelsImporter = 0.3.3
+- RenderDoc Version 1.11 does not work yet (newest AddOn version 0.3.3)
 
 Before opening a new Issue on GitHub please download a sample file to check if this works on your Computer.  
 Please be patient. If there's no error message it most probably is still loading.  
-Depending on the size of the sample file it can take a minute or two to load it and Blender will get unresponsive during this time.  
+Depending on the size of the sample file it may take a minute or two to load and Blender will get unresponsive during this time.  
+
+If it works with a sample file you most probably shouldn't open a new issue on GitHub but figure out how to use RenderDoc.
+Find instructions about using RenderDoc by searching [YouTube](https://www.youtube.com/results?search_query=RenderDoc+Google+maps)
 
 - **Samples made with RenderDoc Version 1.11:**
   - [Granada, Alhambra](#granada-alhambra)
@@ -126,9 +130,20 @@ Capture date: *2020-11-13*
 File: [bridge-RD_1.9](samples/bridge-RD_1.9.rdc)  
 RenderDoc Version: 1.9  
 Capture Source: Google Maps  
-File size: 30 MB  
+File size: 29 MB  
 Capture date: *2020-11-15*  
 ![bridge-RD_1.9.rdc import in Blender](samples/bridge-RD_1.9.png)
+
+ ***
+
+### Zürich, ETH
+<!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
+File: [eth-RD_1.9](samples/eth-RD_1.9.rdc)  
+RenderDoc Version: 1.9  
+Capture Source: Google Maps  
+File size: 37 MB  
+Capture date: *2020-11-30*  
+![eth-RD_1.9.rdc import in Blender](samples/eth-RD_1.9.png)
 
  ***
 
