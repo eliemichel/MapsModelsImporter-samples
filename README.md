@@ -45,8 +45,9 @@ This is a set of .rdc files that you can try to import to check your installatio
  ***
 
 ## New York, Manhattan Bridge
-File: [bridge (RD_1.9)](samples/bridge-RD_1.9.rdc)
-
+#test comment
+<!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
+File: [bridge (RD_1.9)](samples/bridge-RD_1.9.rdc)  
 RenderDoc Version: 1.9  
 File size: 29 MB  
 Capture date: *2020-11-15*  
