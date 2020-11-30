@@ -3,11 +3,10 @@ MapsModelsImporter samples
 
 This is a set of .rdc files that you can try to import to check your installation of [MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter).
 
-- Samples made with RenderDoc Version 1.11:
-Works with MapsModelImporter Version: does not work for now (newest Version is 0.3.3)  
+- **Samples made with RenderDoc Version 1.11:**<br>does not work for now (newest Version is 0.3.3)
   - [Granada, Alhambra](#granada-alhambra)
 
-- Samples made with RenderDoc Version 1.10:<br>Works with MapsModelImporter Version: 0.3.3  
+- **Samples made with RenderDoc Version 1.10:**<br>Works with MapsModelImporter Version: 0.3.3
 	- [Pumpa.rdc](#samples/Pumpa.rdc)
 	- [Funkhaus.rdc](#samples/Funkhaus.rdc)
 	- [Tracey.rdc](#samples/Tracey.rdc)
@@ -16,7 +15,7 @@ Works with MapsModelImporter Version: does not work for now (newest Version is 0
 	- [Shizuoka.rdc](#samples/Shizuoka.rdc)
 	- [New York, Manhattan Bridge 1.10](#new-york-manhattan-bridge-110)
 
-- ### Samples made with RenderDoc Version 1.9:<br>Works with MapsModelImporter Version: <= 0.3.3  
+- **Samples made with RenderDoc Version 1.9:**<br>Works with MapsModelImporter Version: <= 0.3.3
   - [New York, Manhattan Bridge 1.9](#new-york-manhattan-bridge-19)
 
  ***
