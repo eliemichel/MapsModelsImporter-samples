@@ -47,10 +47,9 @@ This is a set of .rdc files that you can try to import to check your installatio
 ## New York, Manhattan Bridge
 File: [bridge (RD_1.9)](samples/bridge-RD_1.9.rdc)
 
-RenderDoc Version: 1.9
-
-capture date: *2020-11-15*
-
+RenderDoc Version: 1.9  
+File size: 29 MB  
+Capture date: *2020-11-15*  
 ![bridge-RD_1.9.rdc import in Blender](samples/bridge-RD_1.9.png)
 
  ***
