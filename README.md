@@ -27,6 +27,7 @@ Find instructions about using RenderDoc by searching [YouTube](https://www.youtu
 	- [New York, Manhattan Bridge 1.10](#new-york-manhattan-bridge-110)
 - **Samples made with RenderDoc Version 1.9:**
   - [New York, Manhattan Bridge 1.9](#new-york-manhattan-bridge-19)
+  - [Zürich, ETH](#zürich-eth)
  ***
 
 
