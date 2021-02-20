@@ -4,9 +4,9 @@ MapsModelsImporter samples
 This is a set of .rdc files that you can try to import to check your installation of [MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter).
 
 Please make sure that You are using the recommended RenderDoc Version for the installed MapsModelsImporter Version:
-- MapsModelsImporter <= 0.3.2: RenderDoc Version 1.5 - 1.9
-- MapsModelsImporter  = 0.3.3: RenderDoc Version 1.5 - 1.10
-- RenderDoc Version 1.11 does not work yet (newest AddOn version 0.3.3)
+- MapsModelsImporter <= 0.3.2:         RenderDoc Version 1.5 - 1.9
+- MapsModelsImporter  = 0.3.3 - 0.3.5: RenderDoc Version 1.5 - 1.10
+- RenderDoc Version 1.11 & 1.12 do not work yet (newest AddOn version 0.3.5)
 
 Before opening a new Issue on GitHub please download a sample file to check if this works on your Computer.  
 Please be patient. If there's no error message it most probably is still loading.  
