@@ -15,8 +15,6 @@ Depending on the size of the sample file it may take a minute or two to load and
 If it works with a sample file you most probably shouldn't open a new issue on GitHub but figure out how to use RenderDoc.
 Find instructions about using RenderDoc by searching [YouTube](https://www.youtube.com/results?search_query=RenderDoc)
 
-- **Samples made with RenderDoc Version 1.11:**
-  - [Granada, Alhambra](#granada-alhambra)
 - **Samples made with RenderDoc Version 1.10:**
 	- [Pumpa.rdc](#samples/Pumpa.rdc)
 	- [Funkhaus.rdc](#samples/Funkhaus.rdc)
@@ -29,21 +27,6 @@ Find instructions about using RenderDoc by searching [YouTube](https://www.youtu
   - [New York, Manhattan Bridge 1.9](#new-york-manhattan-bridge-19)
   - [Zürich, ETH](#zürich-eth)
  ***
-
-
-## Samples made with RenderDoc Version 1.11
-
-### Granada, Alhambra
-<!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
-File: [alhambra-RD_1.11.rdc](samples/alhambra-RD_1.11.rdc)  
-RenderDoc Version: 1.11  
-Capture Source: Google Maps  
-File size: 45 MB  
-Capture date: *2020-11-30*  
-<!-- ![alhambra-RD_1.11.rdc import in Blender](samples/alhambra-RD_1.11.png) -->
-
- ***
-
 
 ## Samples made with RenderDoc Version 1.10
 
