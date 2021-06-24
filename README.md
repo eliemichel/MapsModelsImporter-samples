@@ -6,7 +6,8 @@ This is a set of .rdc files that you can try to import to check your installatio
 Please make sure that You are using the recommended RenderDoc Version for the installed MapsModelsImporter Version:
 - MapsModelsImporter <= 0.3.2:         RenderDoc Version 1.5 - 1.9
 - MapsModelsImporter  = 0.3.3 - 0.3.5: RenderDoc Version 1.5 - 1.10
-- RenderDoc Version 1.11 & 1.12 do not work yet (newest AddOn version 0.3.5)
+- MapsModelsImporter  = 0.3.6 - 0.3.7: RenderDoc Version 1.10
+- MapsModelsImporter  = 0.4.0: RenderDoc Version 1.13
 
 Before opening a new Issue on GitHub please download a sample file to check if this works on your Computer.  
 Please be patient. If there's no error message it most probably is still loading.  
@@ -15,6 +16,9 @@ Depending on the size of the sample file it may take a minute or two to load and
 If it works with a sample file you most probably shouldn't open a new issue on GitHub but figure out how to use RenderDoc.
 Find instructions about using RenderDoc by searching [YouTube](https://www.youtube.com/results?search_query=RenderDoc)
 
+- **Samples made with RenderDoc Version 1.13:**
+    - [SacreCoeur.rdc](#samples/SacreCoeur-113.rdc)
+    - [CapeTown.rdc](#samples/CapeTown-113.rdc)
 - **Samples made with RenderDoc Version 1.10:**
 	- [Pumpa.rdc](#samples/Pumpa.rdc)
 	- [Funkhaus.rdc](#samples/Funkhaus.rdc)
@@ -28,13 +32,37 @@ Find instructions about using RenderDoc by searching [YouTube](https://www.youtu
   - [Zürich, ETH](#zürich-eth)
  ***
 
+## Samples made with RenderDoc Version 1.13
+
+### Sacré Coeur 1.13
+<!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
+File: [SacreCoeur-RD_1.13](samples/SacreCoeur-RD_1.13.rdc)  
+RenderDoc Version: 1.13  
+Capture Source: Google Maps  
+File size: 75 MB  
+Capture date: *2021-06-24*  
+![SacreCoeur-RD_1.13.rdc import in Blender](samples/SacreCoeur-RD_1.13.png)
+
+ ***
+
+### Cape Town 1.13
+<!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
+File: [CapeTown-RD_1.13](samples/CapeTown-RD_1.13.rdc)  
+RenderDoc Version: 1.13  
+Capture Source: Google Maps  
+File size: 58 MB  
+Capture date: *2021-06-24*  
+![CapeTown-RD_1.13.rdc import in Blender](samples/CapeTown-RD_1.13.png)
+
+ ***
+
 ## Samples made with RenderDoc Version 1.10
 
 ### Pumpa
 <!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
 File: [Pumpa.rdc](samples/Pumpa.rdc)  
 RenderDoc Version: 1.10  
-Capture Source: ?  
+Capture Source: Google Maps  
 File size: 31 MB  
 Capture date: *2020-11-28*  
 ![Pumpa.rdc importer in Blender](samples/Pumpa.png)
@@ -45,7 +73,7 @@ Capture date: *2020-11-28*
 <!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
 File: [Funkhaus.rdc](samples/Funkhaus.rdc)  
 RenderDoc Version: 1.10  
-Capture Source: ?  
+Capture Source: Google Maps  
 File size: 68 MB  
 Capture date: *2020-11-28*  
 ![Funkhaus.rdc importer in Blender](samples/Funkhaus.png)
@@ -56,7 +84,7 @@ Capture date: *2020-11-28*
 <!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
 File: [Tracey.rdc](samples/Tracey.rdc)  
 RenderDoc Version: 1.10   
-Capture Source: ?  
+Capture Source: Google Maps  
 File size: 52 MB  
 Capture date: *2020-11-28*  
 ![Tracey.rdc importer in Blender](samples/Tracey.png)
@@ -67,7 +95,7 @@ Capture date: *2020-11-28*
 <!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
 File: [HongKong.rdc](samples/HongKong.rdc)  
 RenderDoc Version: 1.10  
-Capture Source: ?  
+Capture Source: Google Maps  
 File size: 72 MB  
 Capture date: *2020-11-28*  
 ![HongKong.rdc importer in Blender](samples/HongKong.png)
@@ -78,7 +106,7 @@ Capture date: *2020-11-28*
 <!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
 File: [Mine.rdc](samples/Mine.rdc)  
 RenderDoc Version: 1.10  
-Capture Source: ?  
+Capture Source: Google Maps  
 File size: 67 MB  
 Capture date: *2020-11-28*  
 ![Mine.rdc importer in Blender](samples/Mine.png)
@@ -89,7 +117,7 @@ Capture date: *2020-11-28*
 <!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
 File: [Shizuoka.rdc](samples/Shizuoka.rdc)  
 RenderDoc Version: 1.10  
-Capture Source: ?  
+Capture Source: Google Maps  
 File size: 67 MB  
 Capture date: *2020-11-28*  
 ![Shizuoka.rdc importer in Blender](samples/Shizuoka.png)
