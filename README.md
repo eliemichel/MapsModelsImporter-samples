@@ -13,7 +13,7 @@ If it works with a sample file you most probably shouldn't open a new issue on G
 Find instructions about using RenderDoc by searching [YouTube](https://www.youtube.com/results?search_query=RenderDoc)
 
 - **Samples made with RenderDoc Version 1.25:**
-    - [SacreCoeur.rdc](#samples/BigBen-125.rdc)
+    - [BigBen.rdc](#samples/BigBen-125.rdc)
 - **Samples made with RenderDoc Version 1.13:**
     - [SacreCoeur.rdc](#samples/SacreCoeur-113.rdc)
     - [CapeTown.rdc](#samples/CapeTown-113.rdc)
