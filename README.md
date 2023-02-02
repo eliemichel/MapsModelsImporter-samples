@@ -3,11 +3,7 @@ MapsModelsImporter samples
 
 This is a set of .rdc files that you can try to import to check your installation of [MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter).
 
-Please make sure that You are using the recommended RenderDoc Version for the installed MapsModelsImporter Version:
-- MapsModelsImporter <= 0.3.2:         RenderDoc Version 1.5 - 1.9
-- MapsModelsImporter  = 0.3.3 - 0.3.5: RenderDoc Version 1.5 - 1.10
-- MapsModelsImporter  = 0.3.6 - 0.3.7: RenderDoc Version 1.10
-- MapsModelsImporter  = 0.4.0: RenderDoc Version 1.13
+**Please make sure** that you are using the recommended RenderDoc version! Each release of the add-on comes with a **very specific** version of RenderDoc and will only work for this version.
 
 Before opening a new Issue on GitHub please download a sample file to check if this works on your Computer.  
 Please be patient. If there's no error message it most probably is still loading.  
@@ -16,6 +12,8 @@ Depending on the size of the sample file it may take a minute or two to load and
 If it works with a sample file you most probably shouldn't open a new issue on GitHub but figure out how to use RenderDoc.
 Find instructions about using RenderDoc by searching [YouTube](https://www.youtube.com/results?search_query=RenderDoc)
 
+- **Samples made with RenderDoc Version 1.25:**
+    - [SacreCoeur.rdc](#samples/BigBen-125.rdc)
 - **Samples made with RenderDoc Version 1.13:**
     - [SacreCoeur.rdc](#samples/SacreCoeur-113.rdc)
     - [CapeTown.rdc](#samples/CapeTown-113.rdc)
@@ -30,6 +28,19 @@ Find instructions about using RenderDoc by searching [YouTube](https://www.youtu
 - **Samples made with RenderDoc Version 1.9:**
   - [New York, Manhattan Bridge 1.9](#new-york-manhattan-bridge-19)
   - [Zürich, ETH](#zürich-eth)
+ ***
+
+## Samples made with RenderDoc Version 1.25
+
+### Big Ben 1.25
+<!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
+File: [bigben-RD_1.25](samples/bigben-RD_1.25.rdc)  
+RenderDoc Version: 1.25  
+Capture Source: Google Maps  
+File size: 39 MB  
+Capture date: *2023-02-02*  
+![bigben-RD_1.25.rdc imported in Blender](samples/bigben-RD_1.25.jpg)
+
  ***
 
 ## Samples made with RenderDoc Version 1.13
