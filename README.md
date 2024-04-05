@@ -32,7 +32,7 @@ Find instructions about using RenderDoc by searching [YouTube](https://www.youtu
   - [Zürich, ETH](#zürich-eth)
  ***
 
-## Samples made with RenderDoc Version 1.25
+## Samples made with RenderDoc Version 1.31
 
 ### Venise 1.31
 <!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
