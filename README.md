@@ -12,6 +12,8 @@ Depending on the size of the sample file it may take a minute or two to load and
 If it works with a sample file you most probably shouldn't open a new issue on GitHub but figure out how to use RenderDoc.
 Find instructions about using RenderDoc by searching [YouTube](https://www.youtube.com/results?search_query=RenderDoc)
 
+- **Samples made with RenderDoc Version 1.31:**
+    - [Venise.rdc](#samples/Venise-131.rdc)
 - **Samples made with RenderDoc Version 1.25:**
     - [BigBen.rdc](#samples/BigBen-125.rdc)
 - **Samples made with RenderDoc Version 1.13:**
@@ -28,6 +30,19 @@ Find instructions about using RenderDoc by searching [YouTube](https://www.youtu
 - **Samples made with RenderDoc Version 1.9:**
   - [New York, Manhattan Bridge 1.9](#new-york-manhattan-bridge-19)
   - [Zürich, ETH](#zürich-eth)
+ ***
+
+## Samples made with RenderDoc Version 1.25
+
+### Venise 1.31
+<!-- make sure to have two whitespaces at the end of each line to make a new line on GitHub -->
+File: [venise-RD_1.31](samples/venise-RD_1.31.rdc)  
+RenderDoc Version: 1.31  
+Capture Source: Google Maps  
+File size: 55 MB  
+Capture date: *2024-04-05*  
+![venise-RD_1.31.rdc imported in Blender](samples/venise-RD_1.31.jpg)
+
  ***
 
 ## Samples made with RenderDoc Version 1.25
